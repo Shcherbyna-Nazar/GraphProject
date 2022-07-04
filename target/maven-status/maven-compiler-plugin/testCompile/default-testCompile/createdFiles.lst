@@ -1,0 +1,5 @@
+pw\edu\pl\jimppro\graph\GraphTest.class
+pw\edu\pl\jimppro\algorithms\BfsAlgorithmTest.class
+pw\edu\pl\jimppro\algorithms\DijkstraAlgorithmTest.class
+pw\edu\pl\jimppro\gui\LoggerTest.class
+pw\edu\pl\jimppro\graph\GraphGeneratorTest.class

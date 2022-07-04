@@ -1,0 +1,4 @@
+--patch-module
+pw.edu.pl.jimppro=_
+--add-reads
+pw.edu.pl.jimppro=ALL-UNNAMED
